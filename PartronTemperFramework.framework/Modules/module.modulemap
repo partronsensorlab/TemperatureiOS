@@ -1,0 +1,6 @@
+framework module PartronTemperFramework {
+  umbrella header "PartronTemperFramework.h"
+
+  export *
+  module * { export * }
+}
