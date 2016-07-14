@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E994A7391D376E9B0062D476 /* PartronTemperFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E994A7381D376E9B0062D476 /* PartronTemperFramework.framework */; };
-		E994A73A1D376E9B0062D476 /* PartronTemperFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E994A7381D376E9B0062D476 /* PartronTemperFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E9C895001D2CDA7300AFF165 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C894FF1D2CDA7300AFF165 /* main.m */; };
 		E9C895031D2CDA7300AFF165 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C895021D2CDA7300AFF165 /* AppDelegate.m */; };
 		E9C895061D2CDA7300AFF165 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C895051D2CDA7300AFF165 /* ViewController.m */; };
@@ -17,6 +15,8 @@
 		E9C8950E1D2CDA7300AFF165 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9C8950C1D2CDA7300AFF165 /* LaunchScreen.storyboard */; };
 		E9C895191D2CDA7400AFF165 /* PartronTemperExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C895181D2CDA7400AFF165 /* PartronTemperExampleTests.m */; };
 		E9C895241D2CDA7400AFF165 /* PartronTemperExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9C895231D2CDA7400AFF165 /* PartronTemperExampleUITests.m */; };
+		E9DE0AA21D37764800E32A26 /* PartronTemperFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E9DE0AA11D37764800E32A26 /* PartronTemperFramework.framework */; };
+		E9DE0AA31D37764800E32A26 /* PartronTemperFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E9DE0AA11D37764800E32A26 /* PartronTemperFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,13 +37,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		E994A73B1D376E9B0062D476 /* Embed Frameworks */ = {
+		E9DE0AA41D37764800E32A26 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				E994A73A1D376E9B0062D476 /* PartronTemperFramework.framework in Embed Frameworks */,
+				E9DE0AA31D37764800E32A26 /* PartronTemperFramework.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -51,7 +51,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E994A7381D376E9B0062D476 /* PartronTemperFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PartronTemperFramework.framework; sourceTree = "<group>"; };
 		E9C894FB1D2CDA7300AFF165 /* PartronTemperExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PartronTemperExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C894FF1D2CDA7300AFF165 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E9C895011D2CDA7300AFF165 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -68,6 +67,7 @@
 		E9C8951F1D2CDA7400AFF165 /* PartronTemperExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PartronTemperExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C895231D2CDA7400AFF165 /* PartronTemperExampleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PartronTemperExampleUITests.m; sourceTree = "<group>"; };
 		E9C895251D2CDA7400AFF165 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9DE0AA11D37764800E32A26 /* PartronTemperFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PartronTemperFramework.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E994A7391D376E9B0062D476 /* PartronTemperFramework.framework in Frameworks */,
+				E9DE0AA21D37764800E32A26 /* PartronTemperFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,7 +99,7 @@
 		E9C894F21D2CDA7300AFF165 = {
 			isa = PBXGroup;
 			children = (
-				E994A7381D376E9B0062D476 /* PartronTemperFramework.framework */,
+				E9DE0AA11D37764800E32A26 /* PartronTemperFramework.framework */,
 				E9C894FD1D2CDA7300AFF165 /* PartronTemperExample */,
 				E9C895171D2CDA7400AFF165 /* PartronTemperExampleTests */,
 				E9C895221D2CDA7400AFF165 /* PartronTemperExampleUITests */,
@@ -169,7 +169,7 @@
 				E9C894F71D2CDA7300AFF165 /* Sources */,
 				E9C894F81D2CDA7300AFF165 /* Frameworks */,
 				E9C894F91D2CDA7300AFF165 /* Resources */,
-				E994A73B1D376E9B0062D476 /* Embed Frameworks */,
+				E9DE0AA41D37764800E32A26 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
