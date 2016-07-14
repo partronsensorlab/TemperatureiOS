@@ -23,7 +23,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    mCroisea = [[Croisea alloc] initWithStart:@"PTD-100" firmware_ver:4];
+    mCroisea = [[Croisea alloc] initWithStart:@"PTD-100" firmware_ver:4 view:self.view];
 }
 
 - (void)didReceiveMemoryWarning {

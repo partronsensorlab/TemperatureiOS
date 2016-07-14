@@ -14,7 +14,11 @@
 		</data>
 		<key>Headers/Croisea.h</key>
 		<data>
-		ysUxe//eV+JSAosD6aRa75LaLOU=
+		D3CPaQUqLtIX9dsnZJs7Zhrctrs=
+		</data>
+		<key>Headers/CustomView.h</key>
+		<data>
+		CYBQLa2sflrdbpPupGBwnYGJ2o0=
 		</data>
 		<key>Headers/PartronTemperFramework.h</key>
 		<data>
@@ -26,11 +30,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		D+mcU/u7qnZsz1W9XQr5eYncp8w=
+		Lw95qHAK3YY5sz28yrhGcjWnvjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		BbqSJuuLor9FVshzJQA4ctuFk+0=
+		</data>
+		<key>SDKWarnViewController.nib</key>
+		<data>
+		tmyrAbLw45tV5zY24kTFWp42dVQ=
+		</data>
+		<key>SKD_back.png</key>
+		<data>
+		xpl3H1VhlV1HqdBnHgOBmBTmywA=
+		</data>
+		<key>SKD_buttton_txt.png</key>
+		<data>
+		TGQNnyaiIshm6K+Q8tKtZCdjcDY=
+		</data>
+		<key>SKD_buttton_txt_f.png</key>
+		<data>
+		3SXU+KqkrMS9kYx05LBq6gjYiW0=
+		</data>
+		<key>SKD_check_off.png</key>
+		<data>
+		OonM8+W83ekcw1D6VI08M+xCL9E=
+		</data>
+		<key>SKD_check_on.png</key>
+		<data>
+		OhcjWwNux0pS2hFJIjpDfb28ug8=
+		</data>
+		<key>SKD_logos.png</key>
+		<data>
+		71quqNV4q0wrZaQhHBDiP2/JKdA=
 		</data>
 		<key>square_4000_1min.mp3</key>
 		<data>
@@ -65,11 +97,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ysUxe//eV+JSAosD6aRa75LaLOU=
+			D3CPaQUqLtIX9dsnZJs7Zhrctrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mp6WLUwWlh7LOSGbN5WZurMJs7KzaorqA3dGuNMD540=
+			2Yvjwn+O7HRnERGoItY5ytVxyUCCPJgxCGIhu/bAo9Y=
+			</data>
+		</dict>
+		<key>Headers/CustomView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYBQLa2sflrdbpPupGBwnYGJ2o0=
+			</data>
+			<key>hash2</key>
+			<data>
+			n15tlvgnk7zXu9nZNiAt3lbpO711a8zabpLQVBTpKiw=
 			</data>
 		</dict>
 		<key>Headers/PartronTemperFramework.h</key>
@@ -103,6 +146,83 @@
 			<key>hash2</key>
 			<data>
 			W6iCGJHzspjL/MbYjI1ttVRuTHigKQQHWq3/eCsxDSg=
+			</data>
+		</dict>
+		<key>SDKWarnViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tmyrAbLw45tV5zY24kTFWp42dVQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			723O2SvfOi3Tw2SQ2agCLqHotTFP2qGsY+ASIVvqZhM=
+			</data>
+		</dict>
+		<key>SKD_back.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xpl3H1VhlV1HqdBnHgOBmBTmywA=
+			</data>
+			<key>hash2</key>
+			<data>
+			UsZ2wsENCdOWhmuDXj8qR4RlbMf6FaL8H1xI3HwZME0=
+			</data>
+		</dict>
+		<key>SKD_buttton_txt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TGQNnyaiIshm6K+Q8tKtZCdjcDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			gt0FNP3VK7qUpJWibyaSq52M4LcvisghCj+IX1md5wc=
+			</data>
+		</dict>
+		<key>SKD_buttton_txt_f.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3SXU+KqkrMS9kYx05LBq6gjYiW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			GNV7SG4aolfNKP08DtLzTZ3RPsa19ZPp9Zx9m9pNkWg=
+			</data>
+		</dict>
+		<key>SKD_check_off.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OonM8+W83ekcw1D6VI08M+xCL9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			b2BrXRqZ8FCUyTAv46Nggs1dCW6A2s5kHAOEUZZc02Y=
+			</data>
+		</dict>
+		<key>SKD_check_on.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OhcjWwNux0pS2hFJIjpDfb28ug8=
+			</data>
+			<key>hash2</key>
+			<data>
+			g4+TwI2yl2QMkYO/NPx4/2WrfKknP/nszkWOLhFTor4=
+			</data>
+		</dict>
+		<key>SKD_logos.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			71quqNV4q0wrZaQhHBDiP2/JKdA=
+			</data>
+			<key>hash2</key>
+			<data>
+			rZWK3VCFGlVgF8TOl9fYUNZY4B1yTjvB9rs+og96Qgc=
 			</data>
 		</dict>
 		<key>square_4000_1min.mp3</key>
