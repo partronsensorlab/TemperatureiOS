@@ -30,6 +30,7 @@ typedef NS_OPTIONS(NSUInteger, MeasureType) {
 -(void)readyTemp;
 -(void)inPlug;
 -(void)unPlug;
+-(BOOL)isLogEnable;
 @end
 
 @interface AudioSignalAnalyzer : AudioQueueObject {

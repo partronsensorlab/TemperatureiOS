@@ -4,17 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		A//mMRLI3E5oo7tTZ+lxesRryWI=
+		</data>
 		<key>Headers/AudioQueueObject.h</key>
 		<data>
 		o9E0fHuf1Evcu3vGKhXbiDq7ppM=
 		</data>
 		<key>Headers/AudioSignalAnalyzer.h</key>
 		<data>
-		n8n3NL0b023jftgJD7SD/R9lTTA=
+		BFXIXdMGEyYjeaQMsQ0iqZhmtPc=
 		</data>
 		<key>Headers/Croisea.h</key>
 		<data>
-		D3CPaQUqLtIX9dsnZJs7Zhrctrs=
+		DSCQJfh/spuOI+5UQS1GfCHm2tc=
 		</data>
 		<key>Headers/CustomView.h</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XjI5Ay34Zmv9qEJapWZTRZIcx/Y=
+		7zQ24yrLuLO1U7nNqECwKUJYLGk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -38,7 +42,23 @@
 		</data>
 		<key>SDKWarnViewController.nib</key>
 		<data>
-		mZ6yz5IbF2/GBjB1d4PIAwBXzEU=
+		VqBxzP1JcR6X1i0wuq4UaiBD0Oo=
+		</data>
+		<key>SDKWarnViewController~ipad.nib/objects-8.0+.nib</key>
+		<data>
+		d+Fjq2zZ+MVK5vSmy+RTdWTK4jc=
+		</data>
+		<key>SDKWarnViewController~ipad.nib/runtime.nib</key>
+		<data>
+		vFdzRbR4pfY0UpCcGQI87EA1HFc=
+		</data>
+		<key>SDKWarnViewController~iphone.nib/objects-8.0+.nib</key>
+		<data>
+		CPsF++E221gMZ9XxVjxT0vuVgJA=
+		</data>
+		<key>SDKWarnViewController~iphone.nib/runtime.nib</key>
+		<data>
+		4R3C8cujSXBR1iLaMT/tPfeHB2k=
 		</data>
 		<key>SKD_back.png</key>
 		<data>
@@ -86,22 +106,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n8n3NL0b023jftgJD7SD/R9lTTA=
+			BFXIXdMGEyYjeaQMsQ0iqZhmtPc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OfxkActe89ftrtm4Rs3I1ttXwWGJ3ZnfopVFQJppsZE=
+			OtjSWBRvn5Ew9DeIflhJgI6pkLJdm5Y3Qhq5ak4wWug=
 			</data>
 		</dict>
 		<key>Headers/Croisea.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D3CPaQUqLtIX9dsnZJs7Zhrctrs=
+			DSCQJfh/spuOI+5UQS1GfCHm2tc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2Yvjwn+O7HRnERGoItY5ytVxyUCCPJgxCGIhu/bAo9Y=
+			0pBF1MudRORyiGUXtxDENsNZojlUTA18R90eg+8yncQ=
 			</data>
 		</dict>
 		<key>Headers/CustomView.h</key>
@@ -152,11 +172,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mZ6yz5IbF2/GBjB1d4PIAwBXzEU=
+			VqBxzP1JcR6X1i0wuq4UaiBD0Oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kr0uypAsSLN/P4fYaBbJkYSgEpbXhRdpi4JF1ns/3/I=
+			x6z6sE4ATyT+ym9+V94yra0F5gYXetiBVnXNVUdRecc=
+			</data>
+		</dict>
+		<key>SDKWarnViewController~ipad.nib/objects-8.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d+Fjq2zZ+MVK5vSmy+RTdWTK4jc=
+			</data>
+			<key>hash2</key>
+			<data>
+			CaQfaug64A3dRn9cggSppv4st2IQS99aWYCVuELXsBE=
+			</data>
+		</dict>
+		<key>SDKWarnViewController~ipad.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vFdzRbR4pfY0UpCcGQI87EA1HFc=
+			</data>
+			<key>hash2</key>
+			<data>
+			e+0qz/oHXBnQGAeMn9csNf+6hNKtcArQST0s/P4vC54=
+			</data>
+		</dict>
+		<key>SDKWarnViewController~iphone.nib/objects-8.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CPsF++E221gMZ9XxVjxT0vuVgJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			SNLWKfjlwnkgbg7a3zAZ9D7H21ycJONDdDRiJx3duCI=
+			</data>
+		</dict>
+		<key>SDKWarnViewController~iphone.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4R3C8cujSXBR1iLaMT/tPfeHB2k=
+			</data>
+			<key>hash2</key>
+			<data>
+			lYfgIm4igh2nlEVIxoThJTHrk660w1viap8juT1QcRc=
 			</data>
 		</dict>
 		<key>SKD_back.png</key>

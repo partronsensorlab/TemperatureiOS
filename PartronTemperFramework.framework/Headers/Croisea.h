@@ -25,5 +25,6 @@
 - (instancetype)initWithStart:(NSString *)model_name firmware_ver:(int)firmware_ver view:(UIView *)view;
 - (void)Stop;
 - (bool)isExpireLicense;
-
+- (void)enableLog:(BOOL)enable;
+- (BOOL)isLogEnable;
 @end
